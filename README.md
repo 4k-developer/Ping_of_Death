@@ -2,7 +2,7 @@
 A simple and easy tool for preforming p.o.d. attacks
 
 ## How to Install
-Run 'wget <url> && sudo chmod +x pod && sudo mv pod /usr/bin/' without the quotes
+Run 'wget https://raw.githubusercontent.com/4k-developer/Ping-of-Death/master/pod && sudo chmod +x pod && sudo mv pod /usr/bin/' without the quotes
 
 ## How to Use
 pod (ip address)
