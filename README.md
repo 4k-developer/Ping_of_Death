@@ -7,6 +7,9 @@ Run 'wget https://raw.githubusercontent.com/4k-developer/Ping_of_Death/master/po
 ## How to Use
 pod (ip address)
 
+## How to Kill
+Use 'pkill ping'
+
 ## What you Need
 1) Ping 
 <br>
