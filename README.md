@@ -1,8 +1,8 @@
-# Ping-of-Death
+# Ping of Death
 A simple and easy tool for preforming p.o.d. attacks
 
 ## How to Install
-Run 'wget https://raw.githubusercontent.com/4k-developer/Ping-of-Death/master/pod && sudo chmod +x pod && sudo mv pod /usr/bin/' without the quotes
+Run 'wget https://raw.githubusercontent.com/4k-developer/Ping_of_Death/master/pod && sudo chmod +x pod && sudo mv pod /usr/bin/' without the quotes
 
 ## How to Use
 pod (ip address)
