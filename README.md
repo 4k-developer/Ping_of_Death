@@ -12,9 +12,6 @@ Use 'pkill ping'
 
 ## What you Need
 1) Ping 
-<br>
 2) A terminal
-<br>
 3) Target
-<br>
 4) Many attackers
